@@ -15,5 +15,13 @@ javaScript array concept and methods
 intro to type script and types 
 Explicit and inference methods 
 
+#DAY 5
+javascript methods
+
+array string obj number
+json methods
+utility methods
+DOM methods
+
 
 
