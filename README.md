@@ -23,5 +23,30 @@ json methods
 utility methods
 DOM methods
 
+#Day 6 
+TypeScript data types
+
+-List of TypeScript Basic Types
+
+1. **Type Annotation**  
+2. **Type Inference**  
+3. **Number**  
+4. **String**  
+5. **Boolean**  
+6. **Object Type**  
+7. **Array**  
+8. **Tuple**  
+9. **Enum**  
+10. **Any Type**  
+11. **Unknown Type**  
+12. **Void Type**  
+13. **Never Type**  
+14. **Union Types**  
+15. **String Literal Types**  
+16. **Type Aliases**
+
+
+
+
 
 
