@@ -46,6 +46,10 @@ TypeScript data types
 16. **Type Aliases**
 
 
+Day 7
+completd all js topics 
+
+datatypes, declarations,arrays, functions, arrows, loops, conditional statements, interpolation , string methods, math methods, interfaces , Dom, Asyn/ Await, promises , thread intro, over loading ..........
 
 
 
