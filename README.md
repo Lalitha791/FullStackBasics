@@ -51,6 +51,15 @@ completd all js topics
 
 datatypes, declarations,arrays, functions, arrows, loops, conditional statements, interpolation , string methods, math methods, interfaces , Dom, Asyn/ Await, promises , thread intro, over loading ..........
 
+Day 8
+
+usermnagement program in typescript
+generics
+
+Day 9
+
+oopsjavascript
+
 
 
 
