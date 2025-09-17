@@ -61,7 +61,7 @@ Day 9
 oopsjavascript
 
 Day 10
-Tuples in typescript
+Tuples, array basics  in typescript
 
 
 
