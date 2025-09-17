@@ -60,6 +60,10 @@ Day 9
 
 oopsjavascript
 
+Day 10
+Tuples in typescript
+
+
 
 
 
