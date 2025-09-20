@@ -64,6 +64,11 @@ Day 10
 Tuples, array basics  in typescript
 
 
+Day 11
+
+generics , functions
+
+
 
 
 
