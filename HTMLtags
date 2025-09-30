@@ -1,0 +1,143 @@
+
+
+I. Introduction to HTML
+
+* HTML (HyperText Markup Language) is the standard language for creating web pages. It defines the structure and content of webpages using tags.
+* Role in Web Development:
+  HTML → Structure
+  CSS → Styling
+  JavaScript → Interactivity
+* Purpose: To create responsive, accessible, and cross-browser compatible websites.
+* Tags: Keywords in angle brackets. Usually in pairs like <p>...</p>. Some are self-closing like <br>, <hr>, <img>. Tags give meaning (semantics) to content.
+
+II. Basic Structure of an HTML Document
+A minimal page looks like this:
+
+<!DOCTYPE html>  
+
+<html lang="en">  
+<head>  
+  <meta charset="UTF-8">  
+  <title>My First Page</title>  
+</head>  
+<body>  
+  <h1>Hello, World!</h1>  
+</body>  
+</html>  
+
+Explanation:
+
+* <!DOCTYPE html> → Declares HTML5 document type  
+* <html> → Root element  
+* <head> → Metadata (title, charset, CSS, scripts)  
+* <title> → Browser tab title  
+* <body> → Visible page content  
+
+III. Categories of HTML Tags
+
+1. Text Formatting and Headings
+
+* <h1> to <h6> → Headings (h1 is most important)  
+* <p> → Paragraphs  
+* <b> vs <strong> → Bold (visual vs semantic)
+* <i> vs <em> → Italics (visual vs emphasis)
+* <u> underline, <mark> highlight
+* <del> deleted text, <ins> inserted text
+* <sup> superscript, <sub> subscript
+* <br> line break, <hr> horizontal line
+
+2. Lists
+
+* <ul> unordered list (bullets)  
+* <ol> ordered list (numbers/letters)  
+* <li> list item  
+* <dl> description list with <dt> (term) and <dd> (description)  
+
+3. Links and Media
+
+* <a href="url"> → Links
+* Attributes: target="_blank" (new tab), title="tooltip"
+* <img src="file.jpg" alt="text"> → Images
+* <video> and <audio> → Multimedia
+
+4. Tables
+
+* <table> main container  
+* <tr> table row  
+* <td> table data cell  
+* <th> table header cell  
+* <thead>, <tbody>, <tfoot> for structure  
+* <caption> table title  
+
+5. Forms and Input Controls
+
+* <form action="url" method="post/get">  
+* <input type="text/password/email/checkbox/radio/submit">  
+* <textarea> → Multiline input  
+
+* <label> → Label for input
+* <select> and <option> → Dropdown
+* <button> → Button
+
+6. Semantic Layout Tags
+
+* <header> → Page or section header  
+* <footer> → Footer  
+* <nav> → Navigation links  
+* <main> → Main content  
+* <section> → Thematic grouping  
+* <article> → Independent block of content  
+* <aside> → Sidebar content  
+
+7. Generic Containers
+
+* <div> → Block container  
+* <span> → Inline container
+
+IV. Attributes in HTML
+
+* Attributes give extra info to tags.
+* Examples: id, class, style, alt, href, src.
+  Example: <img src="logo.png" alt="Logo" width="200">
+
+V. Block vs Inline Elements
+
+* Block-level: start on new line, full width (e.g., <div>, <p>, <h1>)
+* Inline: same line, only as wide as content (e.g., <span>, <a>, <b>)
+
+VI. How Browsers Process HTML
+
+1. Browser requests HTML file.
+2. Parses tags into DOM (Document Object Model).
+3. Builds Render Tree (visible elements).
+4. Applies CSS rules, calculates layout.
+5. Executes JavaScript.
+6. Renders final page on screen.
+
+VII. Checking and Validating HTML
+
+* Use browser Developer Tools → Inspect (Ctrl+Shift+I).
+* Shows live DOM structure.
+* Validation: W3C Markup Validator ([https://validator.w3.org/](https://validator.w3.org/)).
+
+VIII. Best Practices
+
+* Close tags properly.
+* Use semantic tags for SEO and accessibility.
+* Add alt text for images.
+* Use lowercase for tags/attributes.
+* Avoid inline CSS → use external stylesheet.
+* Keep indentation and formatting clean.
+* Validate HTML regularly.
+
+IX. Summary
+
+* HTML is the skeleton of a webpage.
+* Categories: text, lists, links, media, tables, forms, semantic, containers.
+* Attributes enhance functionality.
+* Browsers parse HTML into DOM and render it.
+* Following best practices ensures professional, accessible websites.
+
+---
+
+
